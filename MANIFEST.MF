@@ -1,0 +1,3 @@
+Main-Class: WebCrawler
+Class-Path: ./jsoup-1.8.3.jar
+
