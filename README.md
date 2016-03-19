@@ -1,8 +1,9 @@
+
 Jar file name: WebCrawler.jar 
 Example Input: java -jar WebCrawler.jar "http://www.cnn.com/2013/06/10/politics/edward-snowden-profile/"
 
-My general approach to solve the problem was to implement a modified version of the 
-Apiori Algorithm explained below.
+My general approach to solve the problem was to implement a
+modified version of the Apiori Algorithm explained below.
 
 https://www.youtube.com/watch?v=TcUlzuQ27iQ
 https://en.wikipedia.org/wiki/Apriori_algorithm#Overview
