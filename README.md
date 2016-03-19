@@ -62,3 +62,6 @@ and I only wanted to do the sorting once.
 
 I created a Comparator class, CustomComparator that implements the Comparator interface 
 in order to create my TreeMap and thus only return the necessary values. 
+=======
+# WebCrawler
+Program that finds popular topics on a webpage given a valid URL
